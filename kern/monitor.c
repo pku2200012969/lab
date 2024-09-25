@@ -78,7 +78,6 @@ mon_backtrace(int argc, char **argv, struct Trapframe *tf)
         }
     }
     return 0;
-	return 0;
 }
 
 
